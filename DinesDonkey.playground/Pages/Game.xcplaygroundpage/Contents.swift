@@ -14,7 +14,7 @@
  Unfortunately, Dinê passed away earlier this year. It will always be in the history of the city and in our hearts.
  
 ## Who's Cambraínha?
- It's the name of the Dinê's Donkey. The name _Cambraínha_ comes from _cambric_, a type of fabric. Despite the name, the donkey is ornamented with various types of fabrics.
+ It's the name of Dinê's donkey. The name _Cambraínha_ comes from _cambric_, a type of fabric. Despite the name, the donkey is ornamented with various types of fabrics.
  
 */
 

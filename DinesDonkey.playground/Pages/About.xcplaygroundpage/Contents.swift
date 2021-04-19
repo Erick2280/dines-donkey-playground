@@ -1,11 +1,7 @@
 
 /*:
  
-# Hi there!
-
- I'm Erick Almeida, a Computer Science student at the Federal University of Pernambuco (UFPE) and a member of the Apple Developer Academy - UFPE.
- 
- In memory of Antônio Cardoso, the "Dinê da Burrinha" (Dinê of the Donkey).
+In memory of Antônio Cardoso, the "Dinê da Burrinha" (Dinê of the Donkey).
  
 # Acknowledgments
  

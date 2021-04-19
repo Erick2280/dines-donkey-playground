@@ -32,10 +32,10 @@ public struct PostcardScreen: View {
                     .rotationEffect(.degrees(-15))
                     .offset(x: -metrics.size.width * 0.375, y: -metrics.size.height * 0.35)
                 
-                Text("\"Here it comes Dinê, with his little donkey!\"")
+                Text("\"Here comes Dinê, with his little donkey!\"")
                     .font(PlaygroundResources.shared.fonts.subheader)
                     .foregroundColor(Color.white)
-                    .offset(x: -metrics.size.width * 0.17, y: metrics.size.height * 0.4)
+                    .offset(x: -metrics.size.width * 0.175, y: metrics.size.height * 0.4)
                 
                 Button(action: {
                     currentScreen = .CustomizationScreen

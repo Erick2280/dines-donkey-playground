@@ -78,6 +78,7 @@ public enum DonkeyHead: String, CaseIterable {
     case InterlacedFabricHead = "Images/DonkeyHeads/InterlacedFabricHead"
     case RedChintzHead = "Images/DonkeyHeads/RedChintzHead"
     case YellowChintzHead = "Images/DonkeyHeads/YellowChintzHead"
+    case BlueChintzHead = "Images/DonkeyHeads/BlueChintzHead"
 }
 
 public enum DonkeyTail: String, CaseIterable {
