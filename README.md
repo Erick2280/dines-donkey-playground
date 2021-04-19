@@ -19,5 +19,5 @@ Unfortunately, Dinê passed away earlier this year. It will always be in the his
 It's the name of the Dinê's Donkey. The name _Cambraínha_ comes from _cambric_, a type of fabric. Despite the name, the donkey is ornamented with various types of fabrics.
 
 ----
-_Submission for Swift Student Challenge 2021_
-_In memory of Antônio Cardoso, the "Dinê da Burrinha" (Dinê of the Donkey)._
+_Submission for Swift Student Challenge 2021_  
+_In memory of Antônio Cardoso, the "Dinê da Burrinha" (Dinê of the Donkey)_
