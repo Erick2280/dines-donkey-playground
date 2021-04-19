@@ -1,5 +1,4 @@
 # ![Dinê's Donkey](Logo.svg)
-_Submission for Swift Student Challenge 2020_
 
 > Welcome to Irará, a small town in northeastern Brazil. Despite the size, make no mistake! It is a land of people with big hearts.
 >
@@ -20,4 +19,5 @@ Unfortunately, Dinê passed away earlier this year. It will always be in the his
 It's the name of the Dinê's Donkey. The name _Cambraínha_ comes from _cambric_, a type of fabric. Despite the name, the donkey is ornamented with various types of fabrics.
 
 ----
+_Submission for Swift Student Challenge 2021_
 _In memory of Antônio Cardoso, the "Dinê da Burrinha" (Dinê of the Donkey)._
